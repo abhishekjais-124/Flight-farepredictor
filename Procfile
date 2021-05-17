@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT flight_fare_prediction.wsgi:application
