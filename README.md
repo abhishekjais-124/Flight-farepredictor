@@ -1,4 +1,4 @@
-# FLIGHT FARE PREDICTOR
+# FLIGHT FARE PREDICTOR [link](https://flight-farepredictor.herokuapp.com/)
 
 A machine learning project which predicts the fare of the flight from one city to another. This project is a single page application and uses algorithm of ***Random Forest Regression.*** The page has beautifully designed form in which has many fields(such as Source, Destination, stopages, airlines, dates, etc.) to fill which is required in the prediction.
 
