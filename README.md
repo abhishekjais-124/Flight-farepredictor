@@ -5,7 +5,7 @@ A machine learning project which predicts the fare of the flight from one city t
 ## Some major points on algorithm used:
 * Random forest is a Supervised Learning algorithm which uses ensemble learning method for classification and regression.
 * Decision trees are sensitive to the specific data on which they are trained. If the training data is changed the resulting decision tree can be quite different and in turn the predictions can be quite different.Also Decision trees are computationally expensive to train, carry a big risk of overfitting, and tend to find local optima because they can’t go back after they have made a split.To address these weaknesses, we turn to Random Forest.
-*![alt text](https://github.com/abhishekjais-124/Flight-farepredictor/blob/master/random_forest.jpg?raw=true)
+* ![alt text](https://github.com/abhishekjais-124/Flight-farepredictor/blob/master/random_forest.png?raw=true)
 
 
 ## Technologies Used
